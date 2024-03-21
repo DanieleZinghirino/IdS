@@ -9,38 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8518f905-b9fc-401e-aa71-3d8d39639682" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Avvio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Bonus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Calciatore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Campionato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Classifica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ElencoCalciatori.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FantaApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/GestoreScambio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Giocatore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Giornata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Squadra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/UI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Validatore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Voto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/CalciatoreTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/CampionatoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ElencoCalciatoriTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/FantaAppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/GestoreScambioTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/GiocatoreTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/GiornataTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/SquadraTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ValidatoreTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="8518f905-b9fc-401e-aa71-3d8d39639682" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,10 +90,10 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit3",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/danie/OneDrive - Università degli Studi di Catania/Desktop/Ing Software/Esempi/Andrea e Seby/IdS Project/Eseguibile",
+    "last_opened_file_path": "C:/Users/danie/OneDrive - Università degli Studi di Catania/Desktop/Daniele Zinghirino 1000050613/FantaApp/FantaApp",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -260,6 +229,7 @@
       <workItem from="1710845447141" duration="2153000" />
       <workItem from="1710869021418" duration="4304000" />
       <workItem from="1711013350626" duration="32071000" />
+      <workItem from="1711056249336" duration="418000" />
     </task>
     <servers />
   </component>
