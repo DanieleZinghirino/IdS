@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="FantaApp:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8518f905-b9fc-401e-aa71-3d8d39639682" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Avvio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Bonus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Calciatore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Campionato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Classifica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ElencoCalciatori.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FantaApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/GestoreScambio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Giocatore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Giornata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Squadra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/UI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Validatore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Voto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/CalciatoreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/CampionatoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ElencoCalciatoriTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/FantaAppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/GestoreScambioTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/GiocatoreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/GiornataTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/SquadraTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ValidatoreTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+        <option value="JUnit3 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2djbProyAZN5MYFyzL40ueaIXs5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Avvio.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.StartUp.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.CalciatoreTest.executor": "Run",
+    "JUnit.CalciatoreTest.testCostruttoreEGet.executor": "Run",
+    "JUnit.CampionatoTest.testAggiornaPunteggio.executor": "Run",
+    "JUnit.CampionatoTest.testAggiornaVoto.executor": "Run",
+    "JUnit.CampionatoTest.testCheckCalciatoreInSquadra.executor": "Run",
+    "JUnit.CampionatoTest.testCheckPresenzaGiornata.executor": "Run",
+    "JUnit.CampionatoTest.testCheckRidondanzaSquadra.executor": "Run",
+    "JUnit.CampionatoTest.testCreaGiornata.executor": "Run",
+    "JUnit.ElencoCalciatoriTest.testCheckCalciatoreSvincolato.executor": "Run",
+    "JUnit.ElencoCalciatoriTest.testCheckNumeroCalciatoriSvincolati.executor": "Run",
+    "JUnit.ElencoCalciatoriTest.testDimensioneElenco.executor": "Run",
+    "JUnit.FantaAppTest.testAggiornaFormazione.executor": "Run",
+    "JUnit.FantaAppTest.testAggiornaVoto.executor": "Run",
+    "JUnit.FantaAppTest.testAggiungiCalciatore.executor": "Run",
+    "JUnit.FantaAppTest.testAggiungiGiocatore.executor": "Run",
+    "JUnit.FantaAppTest.testCheckRidondanzaGiocatore.executor": "Run",
+    "JUnit.FantaAppTest.testCreaSquadra.executor": "Run",
+    "JUnit.FantaAppTest.testGestioneScambio.executor": "Run",
+    "JUnit.GestoreScambioTest.testGestioneScambio.executor": "Run",
+    "JUnit.GestoreScambioTest.testGestioneScambioSquadre.executor": "Run",
+    "JUnit.GestoreScambioTest.testGestioneScambioSvincolati.executor": "Run",
+    "JUnit.GiocatoreTest.testAggiornaFormazione.executor": "Run",
+    "JUnit.GiocatoreTest.testCostruttoreEGet.executor": "Run",
+    "JUnit.GiocatoreTest.testCreaSquadra.executor": "Run",
+    "JUnit.GiocatoreTest.testSet.executor": "Run",
+    "JUnit.GiornataTest.testAggiungiVoto.executor": "Run",
+    "JUnit.SquadraTest.executor": "Run",
+    "JUnit.SquadraTest.testAggiornaPunteggio.executor": "Run",
+    "JUnit.SquadraTest.testRemoveCalciatore.executor": "Run",
+    "JUnit.ValidatoreTest.executor": "Run",
+    "JUnit.ValidatoreTest.testCheckCalciatoreInSquadra.executor": "Run",
+    "JUnit.ValidatoreTest.testCheckCalciatoreSvincolato.executor": "Run",
+    "JUnit.ValidatoreTest.testCheckNumeroCalciatoriSvincolati.executor": "Run",
+    "JUnit.ValidatoreTest.testCheckPresenzaGiornata.executor": "Run",
+    "JUnit.ValidatoreTest.testCheckPresenzaSquadra.executor": "Run",
+    "JUnit.ValidatoreTest.testCheckRidondanzaGiocatore.executor": "Run",
+    "JUnit.ValidatoreTest.testCheckRidondanzaSquadra.executor": "Run",
+    "JUnit.org.example in FantaApp.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit3",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/danie/OneDrive - Università degli Studi di Catania/Desktop/Ing Software/Esempi/Andrea e Seby/IdS Project/Eseguibile",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/danie/OneDrive - Università degli Studi di Catania/Desktop/Ing Software/FantaApp/FantaApp/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ValidatoreTest.testCheckPresenzaGiornata">
+    <configuration name="FantaAppTest.testAggiungiGiocatore" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FantaApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.FantaAppTest" />
+      <option name="METHOD_NAME" value="testAggiungiGiocatore" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidatoreTest.testCheckCalciatoreInSquadra" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FantaApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ValidatoreTest" />
+      <option name="METHOD_NAME" value="testCheckCalciatoreInSquadra" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidatoreTest.testCheckCalciatoreSvincolato" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FantaApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ValidatoreTest" />
+      <option name="METHOD_NAME" value="testCheckCalciatoreSvincolato" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidatoreTest.testCheckNumeroCalciatoriSvincolati" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FantaApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ValidatoreTest" />
+      <option name="METHOD_NAME" value="testCheckNumeroCalciatoriSvincolati" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidatoreTest.testCheckPresenzaGiornata" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FantaApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ValidatoreTest" />
+      <option name="METHOD_NAME" value="testCheckPresenzaGiornata" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ValidatoreTest.testCheckPresenzaGiornata" />
+        <item itemvalue="JUnit.ValidatoreTest.testCheckCalciatoreInSquadra" />
+        <item itemvalue="JUnit.ValidatoreTest.testCheckNumeroCalciatoriSvincolati" />
+        <item itemvalue="JUnit.ValidatoreTest.testCheckCalciatoreSvincolato" />
+        <item itemvalue="JUnit.FantaAppTest.testAggiungiGiocatore" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-temurin-21.0.2-4caba194b151-7da56cdf" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8518f905-b9fc-401e-aa71-3d8d39639682" name="Changes" comment="" />
+      <created>1710524416436</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710524416436</updated>
+      <workItem from="1710524417629" duration="6195000" />
+      <workItem from="1710613100479" duration="691000" />
+      <workItem from="1710669927794" duration="2680000" />
+      <workItem from="1710691588068" duration="9416000" />
+      <workItem from="1710789387899" duration="4987000" />
+      <workItem from="1710845447141" duration="2153000" />
+      <workItem from="1710869021418" duration="4304000" />
+      <workItem from="1711013350626" duration="32071000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/GestoreScambio.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
